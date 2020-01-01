@@ -79,7 +79,5 @@ public class Main {
             }
         }
 
-       // System.out.println("minimumDimension = " + minimumDimension + "  "+"k = " +k+ " effective length =" + effectiveLength
-        //+ " slenderness Ratio = " + slendernessRatio);
     }
 }
